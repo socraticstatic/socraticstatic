@@ -4,7 +4,7 @@ Design leader. 30 years of UX and product design across finance, telecom, health
 
 Currently: Lead Product Designer at AT&T, designing the AI agents that manage network infrastructure. Writer. Photographer. Raised in Lima, Peru.
 
-- Personal page: [micahboswell.com](https://micahboswell.vercel.app/)
+- Personal page: [micahboswell.vercel.app](https://micahboswell.vercel.app/)
 - Portfolio: [conscious-shell.com](https://conscious-shell.com)
 - [LinkedIn](https://www.linkedin.com/in/micahboswell/)
 - [Unsplash](https://unsplash.com/@micahboswell)
