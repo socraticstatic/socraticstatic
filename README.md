@@ -13,7 +13,7 @@ Currently: Lead Product Designer at AT&T, prototyping AI agents for network oper
 
 ## Chart color
 
-- [chart-color-audit](https://github.com/socraticstatic/chart-color-audit) is on npm as [chart-color-audit](https://www.npmjs.com/package/chart-color-audit). The version npm is serving is 0.2.5. The MCP registry lists [io.github.socraticstatic/chart-color-audit](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.socraticstatic%2Fchart-color-audit/versions/latest) at 0.2.5.
+- [chart-color-audit](https://github.com/socraticstatic/chart-color-audit) is on npm as [chart-color-audit](https://www.npmjs.com/package/chart-color-audit). The version npm is serving is 0.2.6. The MCP registry lists [io.github.socraticstatic/chart-color-audit](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.socraticstatic%2Fchart-color-audit/versions/latest) at 0.2.6.
 - [Visualizations](https://github.com/socraticstatic/Visualizations) is the builder at [socraticstatic.github.io/Visualizations](https://socraticstatic.github.io/Visualizations/). The library on npm is [chart-color-system](https://www.npmjs.com/package/chart-color-system) 0.8.0. Its MCP server, [io.github.socraticstatic/chart-color-system](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.socraticstatic%2Fchart-color-system/versions/latest) 0.1.2, answers at [chart-color-mcp.vercel.app/mcp](https://chart-color-mcp.vercel.app/mcp).
 
 ## MCP
